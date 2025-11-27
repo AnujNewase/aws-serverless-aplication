@@ -1,4 +1,4 @@
-AWS Serverless Student Data Application
+AWS Serverless Application
 
 This project is a fully serverless web application built using AWS services such as S3, Lambda, API Gateway, DynamoDB and CloudFront. It allows users to save and retrieve student details through a simple web interface.
 
